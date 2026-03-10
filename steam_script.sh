@@ -2,7 +2,7 @@
 
 # Path = Steam game recording location
 # Destination = where the clips end up
-PATH="~/.steam/debian/-installations/userdata/434129136/gamerecordings/videos"
+PATH="~/.steam/debian/-installations/userdata/434129136/gamerecordings/video"
 DESTINATION="~/Videos"
 
 cd $PATH
